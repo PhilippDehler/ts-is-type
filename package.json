@@ -1,0 +1,26 @@
+{
+  "name": "ts-is-type",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Philipp Dehler",
+  "license": "MIT",
+  "engines": {
+    "node": "<=18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhilippDehler/ts-print.git"
+  },
+  "keywords": [
+    "typescript",
+    "check",
+    "type",
+    "types"
+  ]
+}
