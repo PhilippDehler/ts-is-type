@@ -4,9 +4,6 @@
   "private": false,
   "author": "Philipp Dehler",
   "license": "MIT",
-  "engines": {
-    "node": "<=18.0.0"
-  },
   "devDependencies": {
     "typescript": "^4.9.4"
   },
@@ -15,7 +12,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/PhilippDehler/ts-print.git"
+    "url": "https://github.com/PhilippDehler/ts-is-type.git"
   },
   "keywords": [
     "typescript",
